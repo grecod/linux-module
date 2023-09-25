@@ -1,0 +1,4 @@
+	virtnet@0 {
+		status = "okay";
+		compatible = "virtnet";
+	};
